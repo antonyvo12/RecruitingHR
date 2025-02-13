@@ -1,2 +1,2 @@
 # RecruitingHR
-Projects for Talent Acquisition and HR and Project Management Roles
+Projects for Talent Acquisition, Human Resources, and Consulting
